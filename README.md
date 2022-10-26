@@ -2,15 +2,15 @@
 This is the website for lab 11
 
 # I can do:
-mathematics
+-mathematics
 
-python 
+-python 
 
-macroeconomics
+-macroeconomics
 
 # My hobbies:
-dancing
+-dancing
 
-photographing
+-photographing
 
-travelling
+-travelling
