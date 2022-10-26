@@ -1,15 +1,4 @@
 # my-first-pages-2
 Sample Project
-This is the website for the final project.
+This is the website for lab 11
 
-Team
-huixin Deng
-
-Dataset
-California Housing Dataset
-
-Presentation
-presentation slides
-
-Data App
-Streamlit Demo
